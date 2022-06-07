@@ -85,12 +85,70 @@
 }
 
 
+/* Color Icons Hover
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.twitterColor {
+  padding: 0px 8px 3.5px 0px;
+  vertical-align: middle;
+  width: 25px;
+  height: 25px;
+}
+
+.twitterColor:hover {
+  filter: invert(53%) sepia(98%) saturate(2666%) hue-rotate(177deg) brightness(101%) contrast(90%);
+}
+
+.instagramColor {
+  padding: 0px 8px 3.5px 0px;
+  vertical-align: middle;
+  width: 25px;
+  height: 25px;
+}
+
+
+
+.soundcloudColor {
+  padding: 0px 8px 3.5px 0px;
+  vertical-align: middle;
+  width: 25px;
+  height: 25px;
+}
+
+.soundcloudColor:hover {
+  filter: invert(44%) sepia(73%) saturate(4552%) hue-rotate(1deg) brightness(103%) contrast(104%);
+}
+
+.linkedinColor {
+  padding: 0px 8px 3.5px 0px;
+  vertical-align: middle;
+  width: 25px;
+  height: 25px;
+}
+
+.linkedinColor:hover {
+  filter: invert(36%) sepia(78%) saturate(516%) hue-rotate(169deg) brightness(91%) contrast(95%);
+}
+
+.githubColor {
+  padding: 0px 8px 3.5px 0px;
+  vertical-align: middle;
+  width: 25px;
+  height: 25px;
+}
+
+.githubColor:hover {
+  filter: invert(46%) sepia(86%) saturate(415%) hue-rotate(174deg) brightness(80%) contrast(89%);
+}
+
+
+
 /* Brand Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* Servidores */
 .button.button-server {
-  color: #FFFFFF;
-  background-color: #7b16ff }
+  color: #000000;
+  background-color: #FFFFFF }
 .button.button-server:hover,
 .button.button-server:hover:before {
   content: 'Si necesitas un servidor de DNS, DHCP, FTP, correo escribeme y con gusto montaremos el mejor servidor.';
@@ -144,7 +202,7 @@
 /* Correo */
 .button.button-mail {
   color: #000000;
-  background-color: #E8F3EC }
+  background-color: #0085FF }
 .button.button-mail:hover,
 .button.button-mail:hover:before {
     content: 'Haciendo click aquí, puedes enviarme un correo!';
@@ -171,7 +229,7 @@
 
 /* Telegram */
 .button.button-telegram {
-  color: #000000;
+  color: #FFFFFF;
   background-color: #24ACED }
 .button.button-telegram:hover,
 .button.button-telegram:hover:before {
