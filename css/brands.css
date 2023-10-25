@@ -151,10 +151,10 @@
   background-color: #FFFFFF }
 .button.button-server:hover,
 .button.button-server:hover:before {
-  content: 'Si necesitas un servidor de DNS, DHCP, FTP, correo escribeme y con gusto montaremos el mejor servidor.';
+  content: 'Si necesitas montar un servicio en un servidor escribeme y con gusto montaremos el mejor servidor.';
   white-space: initial; }
 
-/* WhatsApp */
+/* WhatsApp 
 .button.button-whatsapp {
   color: #FFFFFF;
   background-color: #38DF57 }
@@ -162,6 +162,7 @@
 .button.button-whatsapp:hover:before {
     content: 'Para mayor información acerca de un proyecto que necesites ayuda.';
     white-space: initial; }
+*/    
 
 /* YouTube */
 .button.button-youtube {
@@ -181,13 +182,13 @@
     content: 'Mis slides de cuando doy charlas en conferencias.';
     white-space: initial; }
 
-/* Mercha */
+/* Ciberseguridad */
 .button.button-mercha {
   color: #000000;
   background-color: #fffc00 }
 .button.button-mercha:hover,
 .button.button-mercha:hover:before {
-    content: 'Si necesitas personalizar tu negocio con una página web, puedo desarrollar una web para ti.';
+    content: 'Si necesitas auditoría y pruebas de penetración de redes y hosts escríbeme.';
     white-space: initial; }
 
 /* Reddit */
@@ -227,7 +228,7 @@
     white-space: initial; }
 
 
-/* Telegram */
+/* Telegram 
 .button.button-telegram {
   color: #FFFFFF;
   background-color: #24ACED }
@@ -235,3 +236,4 @@
 .button.button-telegram:hover:before {
     content: 'Para mayor información acerca de un proyecto que necesites ayuda.';
     white-space: initial; }
+*/
